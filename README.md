@@ -24,5 +24,5 @@
 - HTML, CSS3, Javascript and PHP
 
 ### My website (WIP)
-[https://www.mospixel.com](Mospixel)
+[https://www.mospixel.com](https://www.mospixel.com)
 
